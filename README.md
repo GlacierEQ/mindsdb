@@ -118,3 +118,4 @@ Generated with [contributors-img](https://contributors-img.web.app).
 ## 🔔 Subscribe for Updates
 
 Join our [Slack community](https://mindsdb.com/joincommunity)
+
